@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6d94bcf-60af-45a8-a069-871a638a086b" name="Changes" comment="" />
+    <list default="true" id="a6d94bcf-60af-45a8-a069-871a638a086b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-10.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-10.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-12.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-12.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-4.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-5.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-6.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-7.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-8.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/color-9.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/color-9.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/inner-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/inner-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/theme/_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/theme/_style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +57,8 @@
       <workItem from="1651154727925" duration="134000" />
       <workItem from="1652441446197" duration="3130000" />
       <workItem from="1660542026499" duration="19951000" />
-      <workItem from="1660726568672" duration="7830000" />
+      <workItem from="1660726568672" duration="8676000" />
+      <workItem from="1662014945187" duration="4638000" />
     </task>
     <servers />
   </component>

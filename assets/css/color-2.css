@@ -3280,7 +3280,7 @@ footer i.fa {
 }
 
 footer.footer2.bg {
-    background: url("../images/sireambalaj/l-2-footer.png") no-repeat top;
+    background: url("../images/sireambalaj/l-2-footer.webp") no-repeat top;
     background-size: cover
 }
 
@@ -3330,7 +3330,7 @@ footer.dark {
 }
 
 footer.dark.app2 {
-    background: url("../images/app_landing2/l-2-footer-dark.png") no-repeat top !important
+    background: url("../images/sireambalaj/l-2-footer-dark.png") no-repeat top !important
 }
 
 footer.dark h1, footer.dark h2, footer.dark h3, footer.dark h4, footer.dark h5, footer.dark h6, footer.dark p, footer.dark a {
@@ -23780,8 +23780,8 @@ body.dark .icon-collection .about-icon a img {
     }
 
     .app2.footer2.bg {
-        background: -webkit-gradient(linear, left top, left bottom, from(#F66E54), to(#FF534B));
-        background: linear-gradient(#F66E54, #FF534B)
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#0a4d7c), to(#013b61));
+        background-image: linear-gradient(#0a4d7c 0%, #013b61 100%);
     }
 
     .event.gallery .gallery-list, .wedding.gallery .gallery-list, .resume.gallery .gallery-list {
