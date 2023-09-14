@@ -162,7 +162,7 @@
          </div>
       </div>
    </div>
-   <img alt="" class="img-fluid blue-img" src="assets/images/zan-engineering/civil-7.webp">
+<!--   <img alt="" class="img-fluid blue-img" src="assets/images/zaninsaat/civil-7.webp">-->
 </section>
 
 <section class="saas2 feature booking" id="feaure">
@@ -421,7 +421,7 @@
                <div class="footer-contant">
                   <img alt="" style="width: 40%" class="img-fluid footer-logo" src="assets/images/zaninsaat/logo/zan-logo.png">
                   <div class="footer-para">
-                     <h6 class="text-white para-address">Zan İnşaat</h6>
+                     <h3 class="text-white para-address">Zan İnşaat</h3>
                      <h6 class="text-white para-address">Cumhuriyet Mahallesi GMK Bulvarı Petrol Apartmanı Kat: 3 No: 8 Yenişehir, Mersin</h6>
                      <h6 class="text-white para-address">0 507 889 65 12</h6>
                      <h6 class="text-white para-address" style="text-transform: none">zaninsaatt@gmail.com</h6>
@@ -602,6 +602,8 @@
 <script src="assets/js/vanilla-tilt.min.js"></script>
 
 <script>
+   if($(window).width() < 991){
+
    $('.toggle-nav').click(function(e) {
       $('.toggler').toggle();
    });
@@ -611,6 +613,7 @@
    $('.btn-back').click(function(e) {
       $('.toggler').toggle();
    });
+   }
 </script>
 <!-- script js-->
 <script src="assets/js/main.js"></script>

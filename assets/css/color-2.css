@@ -919,8 +919,6 @@ section {
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#FF534B), to(#F66E54));
-    background-image: linear-gradient(#FF534B, #F66E54);
     opacity: 0.5
 }
 
@@ -2398,8 +2396,8 @@ body.menu-on:before {
 }
 
 .header .bg.app2-header {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#013b61), to(#858483));
-    background-image: linear-gradient(#013b61, #858483)
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#7fb6f3), to(#d29b58));
+    background-image: linear-gradient(#7fb6f3, #d29b58)
 }
 
 .header .bg.app2-header .header-text {
@@ -2590,7 +2588,7 @@ body.menu-on:before {
 }
 
 .header .img-mobile {
-    bottom: -17%;
+    bottom: 0;
     left: 50%;
     -webkit-transform: translate(-50%, 0);
     transform: translate(-50%, 0);
@@ -3216,7 +3214,7 @@ footer .link-btns ul li.buttons:hover {
 }
 
 footer .link-btns ul li:nth-child(n+7) {
-    margin-bottom: 0
+    /*margin-bottom: 0*/
 }
 
 footer .link-btns ul.links li {
@@ -3585,7 +3583,7 @@ footer.bg-light-inner {
 }
 
 .app2.header .img-mobile .headaer-image {
-    width: 415px
+    width: 797px
 }
 
 .app2.about {
@@ -5113,7 +5111,7 @@ footer.bg-light-inner {
 }
 
 .agency h1, .agency h2, .agency h3, .agency h4, .agency h5, .agency h6 {
-    color: #FF142E
+    color: #800d00
 }
 
 .agency p {
@@ -19886,7 +19884,7 @@ body.dark .icon-collection .about-icon a img {
     }
 
     .header.app2 .img-mobile .headaer-image {
-        width: 315px
+        width: 467px
     }
 
     .header.event .set-bottom {
